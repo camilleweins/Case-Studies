@@ -2,7 +2,7 @@
 
 ## Describe what the project is. Does it have a mission statement?
 
-OpenStreetMap is an open source project that seeks to ...
+OpenStreetMap is an open source project that seeks to make geographical data open to the public.
 
 “The OpenStreetMap Foundation is an international, not-for-profit, democratic organisation with the tasks of supporting the OSM project, running and protecting the OSM database, and making it available to all. The OSMF membership is open to all who want to support the project and participate in the OSMF’s democratic process.” -[OpenStreetMap Foundation](https://wiki.osmfoundation.org/wiki/Mission_Statement)
 
